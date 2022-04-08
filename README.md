@@ -2,7 +2,6 @@
 description: Learn cyber they say, but how?
 cover: .gitbook/assets/R.jpg
 coverY: 77.86176470588235
-layout: landing
 ---
 
 # Welcome
