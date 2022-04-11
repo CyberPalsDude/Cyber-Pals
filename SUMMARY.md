@@ -28,3 +28,7 @@
 ## Vendors
 
 * [Vendors](vendors/vendors.md)
+* [Microsoft](vendors/microsoft/README.md)
+  * [Introduction](vendors/microsoft/introduction.md)
+  * [Licesning](vendors/microsoft/licesning.md)
+  * [Certification exams](vendors/microsoft/certification-exams.md)
