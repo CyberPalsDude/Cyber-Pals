@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Announcements](README.md)
+* [Welcome](<README (1).md>)
 
 ## Overview
 
