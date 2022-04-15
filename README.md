@@ -1,17 +1,41 @@
 ---
-description: News
+description: Learn cyber they say, but how?
+cover: .gitbook/assets/R.jpg
+coverY: 77.86176470588235
 ---
 
-# Announcements
+# Welcome
 
-## Fifth Domain CSA Season 2 is here!
+{% hint style="info" %}
+**Mission statement:**&#x20;
 
-![](<.gitbook/assets/CFT Season.png>)
+_"Provide basic resources to anyone interested in cyber security to build a stronger cyber aware community"_
+{% endhint %}
 
-**Competition Details**
+The pure purpose of Cyber Pals is to provide links to resources to get started with cyber security. There are lots of good sites covering various aspects of cyber security however to find those can be overwhelming for a new starter. This site will hopefully help you to save time and focus on resources that helped others with their Cyber journey.
 
-The CSA Season 2 competition will commence at **9:30 AM AEST** on **Monday, 18th April** and will be available until the **30th June 2022**.
+### Main sections
 
-**To Participate in CSA Season 2**
+Our site has a few main focus areas. **Capture the Flag (CTF)** section focuses on a fun way to learn and explore curiosity while solving challenges. **Cyber Pathway** provides recommendations and resources that will help you to get your foot into the Cyber career. The **Tools** section provides links to various tools used by the Cyber community. And finally, the **Vendors** section provides you with resources that are related to specific products used by professionals and businesses.
 
-You need to be registered to the Fifth Domain. The competition will be accessible from [https://ctf.fifthdomain.com.au](https://ctf.fifthdomain.com.au).
+{% content-ref url="overview/cft.md" %}
+[cft.md](overview/cft.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/cyber-pathway.md" %}
+[cyber-pathway.md](overview/cyber-pathway.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/tools.md" %}
+[tools.md](overview/tools.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/vendors.md" %}
+[vendors.md](overview/vendors.md)
+{% endcontent-ref %}
+
+{% hint style="success" %}
+**Test yourself:** Join us and participate in Cyber Skill Challange. Great way to meet new people and test your skill. Here is a link to last year challenge: [https://www.defence.gov.au/events/adf-cyber-skills-challenge](https://www.defence.gov.au/events/adf-cyber-skills-challenge)
+
+<img src=".gitbook/assets/ADF-Cyber-Skills-Challenge-2021.png" alt="" data-size="original">
+{% endhint %}
