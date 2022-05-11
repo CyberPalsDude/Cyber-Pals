@@ -6,7 +6,7 @@ description: News
 
 ## Fifth Domain CSA Season 2 is here!
 
-![](<.gitbook/assets/CFT Season.png>)
+![](<.gitbook/assets/image (1).png>)
 
 **Competition Details**
 
